@@ -6,7 +6,7 @@ const estilo = StyleSheet.create({
         fontSize: 35,
         fontWeight: 'bold',
         marginTop: 20,
-        color:'#9e1c30'
+        color:'#9e1c30',
       },
       tituloCard: {
         fontSize: 15,
@@ -14,6 +14,13 @@ const estilo = StyleSheet.create({
         color: '#9e1c30',
       },
 
+      imagemHeader: {
+        width: 90,
+        height: 90,
+        alignItems:'center',
+        justifyContent:'space-between',
+        
+      }
 
 })
 
